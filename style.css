@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-image: url(images/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 669px;
+}
+
+header section {
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    width: 826px;
+    height: 320px;
+    left: 307px;
+    top: 174px;
+
+}
+
+header h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+header p {
+    width: 691px;
+    height: 56px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin: 18px auto 30px;
+}
+
+.link-btn {
+    width: 160px;
+    height: 56px;
+    padding: 16px 12px;
+    background: #FF5959;
+    color: #FFFFFF;
+    border-radius: 5px;
+    text-decoration: none;
+}
